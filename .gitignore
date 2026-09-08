@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+data/
+results/best_mnist_cnn.pt
+results/pca_features.csv
+smoke_results/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
